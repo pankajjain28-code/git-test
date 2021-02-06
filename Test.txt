@@ -3,4 +3,3 @@ Hello this is new file
 chnage in file 
 one more change in file 
 
-simple commit
